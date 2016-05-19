@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TriangleGo/redigo/internal"
+	"github.com/TriangleGo/redisgo/internal"
 )
 
 var nowFunc = time.Now // for testing
